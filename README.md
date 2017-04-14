@@ -1,3 +1,9 @@
+## Tom's site
+
+You can see a list of posts on the right.
+
+This website is takign over from `tommccarthyprojects.com`
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Elpoko/blog-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
